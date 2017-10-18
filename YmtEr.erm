@@ -271,7 +271,7 @@
 			</connections>
 			<display>false</display>
 			<creation_date>2017-05-12 16:57:10</creation_date>
-			<updated_date>2017-10-18 23:05:07</updated_date>
+			<updated_date>2017-10-18 23:06:26</updated_date>
 			<model_property>
 				<name>プロジェクト名</name>
 				<value></value>
@@ -70406,8 +70406,8 @@
 			<width>336</width>
 				<font_name>Yu Gothic UI</font_name>
 				<font_size>9</font_size>
-			<x>-756</x>
-			<y>-450</y>
+			<x>-758</x>
+			<y>-432</y>
 			<color>
 				<r>0</r>
 				<g>255</g>
