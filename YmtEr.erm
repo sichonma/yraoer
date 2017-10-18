@@ -11,8 +11,8 @@
 	</page_setting>
 	<category_index>0</category_index>
 	<zoom>0.8</zoom>
-	<x>-1026</x>
-	<y>-1668</y>
+	<x>-962</x>
+	<y>-818</y>
 	<default_color>
 		<r>0</r>
 		<g>255</g>
@@ -271,7 +271,7 @@
 			</connections>
 			<display>false</display>
 			<creation_date>2017-05-12 16:57:10</creation_date>
-			<updated_date>2017-10-18 17:52:47</updated_date>
+			<updated_date>2017-10-18 22:59:09</updated_date>
 			<model_property>
 				<name>プロジェクト名</name>
 				<value></value>
@@ -15346,8 +15346,8 @@
 		</word>
 		<word>
 			<id>940</id>
-			<length>null</length>
-			<decimal>null</decimal>
+			<length>15</length>
+			<decimal>4</decimal>
 			<array>false</array>
 			<array_dimension>null</array_dimension>
 			<unsigned>false</unsigned>
@@ -15358,7 +15358,7 @@
 			<description></description>
 			<logical_name>R-PiCS支払基準日</logical_name>
 			<physical_name>PAY_BASE_D</physical_name>
-			<type></type>
+			<type>decimal(p,s)</type>
 		</word>
 		<word>
 			<id>941</id>
@@ -70726,7 +70726,7 @@
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
 					<physical_name></physical_name>
-					<type></type>
+					<type>decimal(p,s)</type>
 					<constraint></constraint>
 					<default_value></default_value>
 					<auto_increment>false</auto_increment>
