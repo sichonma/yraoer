@@ -12,7 +12,7 @@
 	<category_index>0</category_index>
 	<zoom>0.8</zoom>
 	<x>-962</x>
-	<y>-818</y>
+	<y>-663</y>
 	<default_color>
 		<r>0</r>
 		<g>255</g>
@@ -271,7 +271,7 @@
 			</connections>
 			<display>false</display>
 			<creation_date>2017-05-12 16:57:10</creation_date>
-			<updated_date>2017-10-18 22:59:09</updated_date>
+			<updated_date>2017-10-18 23:05:07</updated_date>
 			<model_property>
 				<name>プロジェクト名</name>
 				<value></value>
@@ -96174,6 +96174,21 @@
 			<cycle>true</cycle>
 			<order>false</order>
 			<description>SEQ_SIC_W_PICKING_LIST_AR_002R</description>
+			<data_type></data_type>
+			<decimal_size>0</decimal_size>
+		</sequence>
+		<sequence>
+			<name>SEQ_SIC_W_BILL_CLOSE</name>
+			<schema></schema>
+			<increment>1</increment>
+			<min_value>0</min_value>
+			<max_value>999999999</max_value>
+			<start>0</start>
+			<cache></cache>
+			<nocache>false</nocache>
+			<cycle>true</cycle>
+			<order>false</order>
+			<description>SEQ_SIC_W_BILL_CLOSE</description>
 			<data_type></data_type>
 			<decimal_size>0</decimal_size>
 		</sequence>
